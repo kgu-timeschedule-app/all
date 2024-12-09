@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "515864974460",
+    "firebase_url": "https://univ-syllabus-default-rtdb.firebaseio.com",
+    "project_id": "univ-syllabus",
+    "storage_bucket": "univ-syllabus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515864974460:android:9eee6e323409ad6deca5f9",
+        "android_client_info": {
+          "package_name": "io.timeschedule.kgu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515864974460-65v61mkv4lbd92v4dv27e99i0msjfhut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.timeschedule.kgu",
+            "certificate_hash": "fc090e3ab72718f2278c11b161f50553a73af65c"
+          }
+        },
+        {
+          "client_id": "515864974460-trp05u6btevh9pfuniql5jq92r7feikb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.timeschedule.kgu",
+            "certificate_hash": "cd20df0297cf4eeb0ccb68011666444783e5c7ea"
+          }
+        },
+        {
+          "client_id": "515864974460-h6cg1ihd1j8ti1fh46shsvsvue99k6aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBl1wuzqFkILUos3gHHnezxAk_dQE5hxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515864974460-h6cg1ihd1j8ti1fh46shsvsvue99k6aq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "515864974460-685bd06veagjap9ipnr7g1refch4s75v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.timeschedule.timeSchedule"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7942690227296112~2245058140"
+    }
+  ],
+  "configuration_version": "1"
+}

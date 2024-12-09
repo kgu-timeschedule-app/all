@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>515864974460-i6rftmbi1jkh7lkjll0ok9lipmrqtnnd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.515864974460-i6rftmbi1jkh7lkjll0ok9lipmrqtnnd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxHEDzh3NP6uMudZV4KEG2W7cDqAcZWHk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>515864974460</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.timeschedule.kgu</string>
+	<key>PROJECT_ID</key>
+	<string>univ-syllabus</string>
+	<key>STORAGE_BUCKET</key>
+	<string>univ-syllabus.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:515864974460:ios:2281a7c1f07ddf08eca5f9</string>
+	<key>DATABASE_URL</key>
+	<string>https://univ-syllabus-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

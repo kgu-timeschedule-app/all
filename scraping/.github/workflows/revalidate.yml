@@ -1,0 +1,20 @@
+
+name: Post to Next
+
+on: push
+
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: technote-space/get-diff-action@v6
+        with:
+          PATTERNS: '*.json'
+          RELATIVE: 'docs/all'
+      - run: |
+          sleep 180
+          curl -X POST -H "Content-Type: application/json" -d "{\"id\": $(echo \""$(echo ${{ env.GIT_DIFF }} | cut -d. -f1 | tr '\n' ',' | sed 's/,$//')"\")}" https://subject.kgu-syllabus.com/api/revalidate?secret=${{ secrets.API_SECRET_KEY }}  | jq .jobs
+        id: extract
+      

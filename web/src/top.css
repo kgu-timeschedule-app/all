@@ -1,0 +1,15 @@
+.MuiAlert-icon {
+    font-size: 35px!important;
+}
+
+p > table {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+}
+
+p > table > tr > td {
+    text-align: start;
+    padding-right: 15px;
+    border: 1px solid;
+}

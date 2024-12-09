@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "515864974460",
+    "firebase_url": "https://univ-syllabus-default-rtdb.firebaseio.com",
+    "project_id": "univ-syllabus",
+    "storage_bucket": "univ-syllabus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515864974460:android:9eee6e323409ad6deca5f9",
+        "android_client_info": {
+          "package_name": "io.timeschedule.kgu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515864974460-h6cg1ihd1j8ti1fh46shsvsvue99k6aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBl1wuzqFkILUos3gHHnezxAk_dQE5hxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515864974460-h6cg1ihd1j8ti1fh46shsvsvue99k6aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
